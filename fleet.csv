@@ -1,0 +1,3 @@
+vehicle_id,type,name,cost_distance,cost_time,cost_fixed,shift_start,shift_end,start_latitude,start_longitude,end_latitude,end_longitude,break_start,break_end,break_duration,capacity_mass,capacity_size,max_distance,shift_time,amount
+t000001,truck,isuzu,0.004,0.033,800,2020-08-25T00:00:00Z,2020-08-25T09:00:00Z,24.970504,121.2516,24.970504,121.2516,2020-08-25T04:00:00Z,2020-08-25T05:00:00Z,3600,10000,40,600000,28800,5
+t000002,truck,mitsubishi,0.005,0.04,1000,2020-08-25T00:00:00Z,2020-08-25T09:00:00Z,24.970504,121.2516,24.970504,121.2516,2020-08-25T04:00:00Z,2020-08-25T05:00:00Z,3600,10000,50,600000,28800,5
